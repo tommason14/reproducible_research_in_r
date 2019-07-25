@@ -13,6 +13,8 @@ output:
     code_folding: hide
     theme: spacelab
     highlight: espresso
+    citation_package: natbib
+bibliography: "biblio.bib"
 ---
 
 # Introduction
@@ -87,4 +89,6 @@ df2 %>%
     theme(axis.text.x=element_text(angle=45, hjust=1))
 ```
 
+Example reference here [@preprint]
 
+## References
