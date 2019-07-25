@@ -1,10 +1,7 @@
-# Template repository
-
-Student can use this repository got start a new repo on GitHub
-
-- `R/init.R` is a helper script that set's git user name and email.
-
-be sure to edit the script to change the following variables to your name and email
+# Reproducible research in R
 
 - `user_name`
 - `user_email`
+edited in `R/init.R`
+
+Related notes are hosted [here](https://monashdatafluency.github.io/r-rep-res/)
